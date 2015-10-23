@@ -1,0 +1,26 @@
+{
+  "name": "dx-text-input",
+  "homepage": "https://github.com/Doxastic/dx-text-input",
+  "authors": [
+    "James Snowden <jamesvsnowden@me.com>"
+  ],
+  "description": "Extends the standard HTML text-input element to provide question state and event management",
+  "main": "dist/dx-text-input.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "doxastic"
+  ],
+  "license": "GPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

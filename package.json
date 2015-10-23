@@ -1,0 +1,30 @@
+{
+  "name": "dx-text-input",
+  "version": "0.0.1",
+  "description": "Extends the standard HTML text-input element to provide question state and event management",
+  "main": "dist/dx-text-input.common.js",
+  "scripts": {
+    "test": "node tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doxastic/dx-text-input.git"
+  },
+  "keywords": [
+    "doxastic"
+  ],
+  "author": "James Snowden",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Doxastic/dx-text-input/issues"
+  },
+  "homepage": "https://github.com/Doxastic/dx-text-input#readme",
+  "devDependencies": {
+    "document-register-element": "^0.5.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.2",
+    "http-server": "^0.8.5"
+  }
+}
